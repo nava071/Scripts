@@ -1,1 +1,1 @@
-# This Repo has scripts I created to support my my day to day activities 
+# This Repo has scripts I created to support my day to day activities.
