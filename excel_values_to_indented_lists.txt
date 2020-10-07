@@ -1,0 +1,5 @@
+Copy the table area which has the Outline of your testcases from Excel to Notepad++
+Remove the Trailing spaces present using Edit->Blank Operations->Trim Trailing space
+Replace all TAB to space using Edit->Blank Operations->TAB to Space
+Replace ^([\s]*) with `\1* `
+View in markdown either in Notepad++ or in Pycharm
